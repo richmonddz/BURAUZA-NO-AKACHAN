@@ -36,7 +36,7 @@ You've been wanting a pet, but you don't have the time or money. You also grew u
 
 In the future we hope to create more sprites to give users more options of their Burazua no Akachan to give a more personalized game for each user. The idea of having the babies grow and change is also on the horizon.
 
-![splash-page](./assets/imgs/splash.jpg)
+![alt text](https://github.com/richmonddz/gp-mini-petz/blob/main/petz.gif)
 
 # License
 
