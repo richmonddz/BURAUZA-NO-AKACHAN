@@ -1,29 +1,26 @@
-# gp-mini-pet
+# Burauza no Akachan (Browser Babies)
 
-A virtual mini pet game
+### A virtual mini pet game
 
-https://monacoglynn.github.io/gp-mini-pet/
+https://richmonddz.github.io/gp-mini-petz/
 
-### project title Burauza no Akachan (Browser Babies)
+# Authors:
 
-Authors: Hai, Marshall, Patrick, & Richmond
-Project Title: Burauza No Akachan (Browser Babies)
-Project Description: Create a virtual pet to take care of and watch it grow!
-User story: Looking for a little companion? Look no further, Burauza No Akachan is what you're looking for. Customize, play, feed, and take care of your browser baby.
-APIs: moment.js, kanye.rest
-Rough Breakdown
-Marshall: sprite animation
-Hai: Logic JS
-Richmond: html/nes.css
-Patrick: admin and helping with anything else.
+### Hai - https://github.com/caubenondo
 
-# description
+### Marshall - https://github.com/Marshall-Rust
 
-Burauza no Akachan is a virtual pet you take care of directly in your browser. Name your pet, feed them and clean up after them, your akachan is just like owning a real pet.
+### Patrick - https://github.com/monacoglynn
+
+### Richmond - https://github.com/richmonddz
+
+# Description
+
+Burauza no Akachan is a virtual interactive pet you take care of directly in your browser. Name your pet, feed them and clean up after them, your akachan is just like owning a real pet. Dont forget to feed your pet! Keep track of your pets status and provide for your furry virtual friend. Also make sure to click on the Kanspiration button for a daily dose of Kanye motivational quotes!!
 
 We used two different APIs Kayne.rest & Moment.JS. Our CSS Framework is called NES.CSS to give an 8-bit feel. We also utilized Bootstrap. Used CSS to write a sprite animation.
 
-# user story
+# User Story
 
 You've been wanting a pet, but you don't have the time or money. You also grew up in the 90's and remember those awesome key chains Tomagatchi! You are taking the bus home and see an ad for Burauza no Akachan and are intrigued. It is a free app that lets you create your very own virtual pet.
 
