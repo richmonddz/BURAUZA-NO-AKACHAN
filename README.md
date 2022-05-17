@@ -20,6 +20,14 @@ Burauza no Akachan is a virtual interactive pet you take care of directly in you
 
 We used two different APIs Kayne.rest & Moment.JS. Our CSS Framework is called NES.CSS to give an 8-bit feel. We also utilized Bootstrap. Used CSS to write a sprite animation.
 
+# Features
+
+- HTML
+- CSS
+- JavaScript
+- NES.CSS
+- Moment.Js
+
 # User Story
 
 You've been wanting a pet, but you don't have the time or money. You also grew up in the 90's and remember those awesome key chains Tomagatchi! You are taking the bus home and see an ad for Burauza no Akachan and are intrigued. It is a free app that lets you create your very own virtual pet.
@@ -29,3 +37,7 @@ You've been wanting a pet, but you don't have the time or money. You also grew u
 In the future we hope to create more sprites to give users more options of their Burazua no Akachan to give a more personalized game for each user. The idea of having the babies grow and change is also on the horizon.
 
 ![splash-page](./assets/imgs/splash.jpg)
+
+# License
+
+- MIT
